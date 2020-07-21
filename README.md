@@ -8,4 +8,4 @@ Repository contains:
 
 -pre-processed files containing the list of clonotypes and related information for each sample used in the study.
 
--R code for new function used in main and supplementary figures
+-R and Bash code for new function used in main and supplementary figures
