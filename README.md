@@ -4,7 +4,7 @@ This directory contains scripts related to the manuscript "Mucosal or systemic m
 
 Read the manuscript here (hyperlink to nature website)
 
-datasets contains:
+Repository contains:
 
 -pre-processed files containing the list of clonotypes and related information for each sample used in the study.
 
